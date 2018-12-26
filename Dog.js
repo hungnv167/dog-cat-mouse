@@ -1,5 +1,5 @@
 function Dog(){
-    this.stomach = []
+    this.stomach = [];
 }
 
 
